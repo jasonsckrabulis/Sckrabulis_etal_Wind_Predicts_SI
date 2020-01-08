@@ -1,6 +1,10 @@
 
 ## Sckrabulis _et al_. - Direct onshore wind predicts daily swimmer's itch (avian schistosome) incidence at a Michigan beach
 
+Wind direction predicts swimmer's itch
+
+---
+
 ### Authors and maintainers
 
 Jason P. Sckrabulis: jason.sckrabulis@gmail.com
