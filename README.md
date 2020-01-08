@@ -41,3 +41,40 @@ Swimmer’s itch (SI) is a painful rash caused by skin penetration by free-swimm
    * Variable descriptions.txt  
    * CSA data among day variation.csv (dataset without time of day effect)  
    * CSA data within day variation.csv (dataset with time of day effect)
+
+---
+
+### Variable descriptions
+
+**CSA data among day variation.csv**
+
+Variable Name | Description
+--- | ---
+Date | Date of data collection
+CalDay | Calendar day (categorical variable)
+SiAM | Number of SI cases reported in the morning session
+SiPM | Number of SI cases reported in the afternoon session
+SiTotal | Total number of SI cases reported per day (SiAM+SiPM)
+PrevSi1/3/5/7 | Average number of SI cases reported in the previous 1/3/5/7 days
+WaterTempF | Surface water temperature within the swim area, measured in Farenheit
+WaterTempC | Calculated surface water temperature within the swim area in Celsius (from WaterTempF)
+AvgPrevTemp1/3/5/7 | Average surface water temperature in the swim area in the previous 1/3/5/7 days
+WindDir | Nearest 8-way wind direction (N, NE, E, SE, S, SW, W, NW)
+WindDirGroup1 | Nearest 4-way 'paired' wind direction (N+NE, E+SE, S+SW, W+NW)
+WindDirGroup2 | Nearest 4-way 'paired' wind direction (NE+E, SE+S, SW+W, NW+N)
+WindVel | Wind velocity in miles per hour
+SwimAM | Number of swimmers reported in the morning session
+SwimPM | Number of swimmers reported in the afternoon session
+SwimTotal | Total number of swimmers reported per day (SwimAM+SwimPM)
+NWSprecip1 | Precipitation present, where 'trace' was reported as present (binary variable)
+NWSprecip2 | Total inches of precipitation per day, where 'trace' was reported as 0 (continuous variable)
+
+**CSA data within day variation.csv**
+
+All variables are the same as the among day variation dataset except for the following differences (Note that the temporal variables are still described as averages of the _previous day_):
+
+Variable Name | Description
+--- | ---
+TimeOfDay | Time of day (AM: morning session; PM: afternoon session)
+SiTotal | Number of SI cases reported _during that session_
+SwimTotal | Number of swimmers reported _during that session_
