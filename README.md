@@ -5,7 +5,7 @@
 
 Jason P. Sckrabulis: jason.sckrabulis@gmail.com
 
-Alan R. FLory: arflory@yahoo.com
+Alan R. Flory: arflory@yahoo.com
 
 Thomas R. Raffel: raffel@oakland.edu
 
