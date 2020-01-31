@@ -1,5 +1,5 @@
 
-## Sckrabulis _et al_. - Direct onshore wind predicts daily swimmer's itch (avian schistosome) incidence at a Michigan beach
+## Sckrabulis _et al_. 2020 - Direct onshore wind predicts daily swimmer's itch (avian schistosome) incidence at a Michigan beach
 
 ### Authors and maintainers
 
