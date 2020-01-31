@@ -23,8 +23,7 @@ For questions concerning the manuscript, please email the corresponding author a
 ### Citation
 
 Please cite work as:
->TBD
-
+>Sckrabulis JP, Flory AR, Raffel TR (2020). Direct onshore wind predicts daily swimmer's itch (avian schistosome) incidence at a Michigan beach. _Parasitology_ 1-10. https://doi.org/10.1017/S0031182020000074
 ---
 
 ### Abstract
