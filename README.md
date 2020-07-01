@@ -9,7 +9,7 @@ Alan R. Flory: arflory@yahoo.com
 
 Thomas R. Raffel: raffel@oakland.edu
 
->Conceptualization: TRR, JPS & ARF. Methodology: TRR, JPS & ARF. Analysis: JPS & TRR. Writing - review & editing: JPS & TRR. Funding: ARF. Literature searching: JPS & TRR.
+>Conceptualization: TRR, JPS, & ARF. Methodology: TRR, JPS, & ARF. Analysis: JPS & TRR. Writing - review & editing: JPS & TRR. Funding: ARF. Literature searching: JPS & TRR.
 
 ### Issues and suggestions
 
