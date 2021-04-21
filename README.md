@@ -74,6 +74,6 @@ All variables are the same as the among day variation dataset except for the fol
 
 Variable Name | Description
 --- | ---
-TimeOfDay | Time of day (AM: morning session; PM: afternoon session)
+TimeOfDay | Time of day (`AM`: morning session; `PM`: afternoon session)
 SiTotal | Number of SI cases reported _during that session_
 SwimTotal | Number of swimmers reported _during that session_
