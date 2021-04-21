@@ -38,8 +38,8 @@ Swimmer’s itch (SI) is a painful rash caused by skin penetration by free-swimm
 * README.md
 * data  
    Folder of experimental data as .csv files used in data analysis for manuscript   
-   * CSA data among day variation.csv (dataset without time of day effect)  
-   * CSA data within day variation.csv (dataset with time of day effect)
+   * `CSA data among day variation.csv` (dataset without time of day effect)  
+   * `CSA data within day variation.csv` (dataset with time of day effect)
 
 ---
 
