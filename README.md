@@ -53,10 +53,10 @@ Date | Date of data collection
 CalDay | Calendar day (categorical variable)
 SiAM | Number of SI cases reported in the morning session
 SiPM | Number of SI cases reported in the afternoon session
-SiTotal | Total number of SI cases reported per day (SiAM+SiPM)
+SiTotal | Total number of SI cases reported per day (`SiAM`+`SiPM`)
 PrevSi1/3/5/7 | Average number of SI cases reported in the previous 1/3/5/7 days
 WaterTempF | Surface water temperature within the swim area, measured in Farenheit
-WaterTempC | Calculated surface water temperature within the swim area in Celsius (from WaterTempF)
+WaterTempC | Calculated surface water temperature within the swim area in Celsius (from `WaterTempF`)
 AvgPrevTemp1/3/5/7 | Average surface water temperature in the swim area in the previous 1/3/5/7 days
 WindDir | Nearest 8-way wind direction (N, NE, E, SE, S, SW, W, NW)
 WindDirGroup1 | Nearest 4-way 'paired' wind direction (N+NE, E+SE, S+SW, W+NW)
@@ -64,7 +64,7 @@ WindDirGroup2 | Nearest 4-way 'paired' wind direction (NE+E, SE+S, SW+W, NW+N)
 WindVel | Wind velocity in miles per hour
 SwimAM | Number of swimmers reported in the morning session
 SwimPM | Number of swimmers reported in the afternoon session
-SwimTotal | Total number of swimmers reported per day (SwimAM+SwimPM)
+SwimTotal | Total number of swimmers reported per day (`SwimAM`+`SwimPM`)
 NWSprecip1 | Precipitation present, where 'trace' was reported as present (binary variable)
 NWSprecip2 | Total inches of precipitation per day, where 'trace' was reported as 0 (continuous variable)
 
