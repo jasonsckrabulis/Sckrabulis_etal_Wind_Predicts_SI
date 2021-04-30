@@ -18,6 +18,7 @@ For questions concerning the manuscript, please email the corresponding author a
 
 ### Change log
 
+* Apr 30, 2021: Moved .csv files to `data`
 * Oct 21, 2020: Added complete citation information
 * Jan 7, 2020: First full commit
 
