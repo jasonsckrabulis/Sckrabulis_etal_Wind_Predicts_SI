@@ -18,6 +18,7 @@ For questions concerning the manuscript, please email the corresponding author a
 
 ### Change log
 
+* May 18, 2022: Added statistical code as .R files to `code`
 * Apr 30, 2021: Moved .csv files to `data`
 * Oct 21, 2020: Added complete citation information
 * Jan 7, 2020: First full commit
@@ -37,6 +38,9 @@ Swimmer’s itch (SI) is a painful rash caused by skin penetration by free-swimm
 ### Repository contents
 
 * README.md
+* code
+   Folder of statistical code as .R files
+   * `CSA statisical analysis.R`
 * data  
    Folder of experimental data as .csv files used in data analysis for manuscript   
    * `CSA data among day variation.csv` (dataset without time of day effect)  
