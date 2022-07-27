@@ -88,7 +88,7 @@ conf <- subset(LifeguardFull, select=c("Date", "SiTotal", "WindDir", "WindVel", 
 # No time of day effect, 1 datapoint per day
 # Forward selection using glmer()
 
-#S tep 1 (Best model: model2 w/ WindDirGroup1)
+# Step 1 (Best model: model2 w/ WindDirGroup1)
 model1 <- glmer(cbind(SiTotal,SwimTotal-SiTotal)~WaterTempC+(1|CalDay), family="binomial", data=NoZero, na.action=na.omit)
 Anova(model1)
 model2 <- glmer(cbind(SiTotal,SwimTotal-SiTotal)~WindDirGroup1+(1|CalDay), family="binomial", data=NoZero, na.action=na.omit)
