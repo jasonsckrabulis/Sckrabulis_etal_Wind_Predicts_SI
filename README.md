@@ -38,6 +38,7 @@ Swimmer’s itch (SI) is a painful rash caused by skin penetration by free-swimm
 ### Repository contents
 
 * README.md
+* LICENSE.txt
 * code
    Folder of statistical code as .R files
    * `CSA statisical analysis.R`
